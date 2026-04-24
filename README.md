@@ -144,8 +144,8 @@ Actual No  [ 885    156 ]
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/telco-churn-ann.git
-   cd telco-churn-ann
+   git clone https://github.com/Tiasha-0504/telco-customer-churn-ann.git
+   cd telco-customer-churn-ann
    ```
 
 2. **Install dependencies**
