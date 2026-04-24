@@ -1,4 +1,4 @@
-# 📡 Telco Customer Churn Prediction using ANN
+# 📡 Telecom Churn Intelligence System
 
 A deep learning project that predicts whether a telecom customer will churn (leave the service) using an **Artificial Neural Network (ANN)** built with **TensorFlow/Keras**. The project covers the full ML pipeline — from data preprocessing to model evaluation and single-sample prediction.
 
